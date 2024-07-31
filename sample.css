@@ -1,0 +1,20 @@
+#ch1{
+background-image:url(download1.jfif);
+background-repeat:no-repeat;
+background-size:cover;
+box-shadow:5px 5px 10px,-5px -5px 10px;
+height:100vh;
+}
+h1{
+text-shadow:5px 5px 10px black;
+}
+#ch2{
+background-image:url(download20.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+box-shadow:5px 5px 10px,-5px -5px 10px;
+height:100vh;
+}
+h2{
+text-shadow:5px 5px 10px black;
+}
